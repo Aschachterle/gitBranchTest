@@ -1,6 +1,2 @@
-On my drive in today
-Charlene needs to do some announcements
-Today is Monday, it is a great day
-This afternoon, we start projects
-This is from the snoopy branch
-We will be merging soon
+Made an HTTP request to the API.
+This works.
